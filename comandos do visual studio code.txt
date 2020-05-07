@@ -1,0 +1,4 @@
+crtl + s  // para salvar
+crtl + alt + n // para executar 
+
+crtl + alt + m // para para de executar
