@@ -1,0 +1,22 @@
+Comandos do flutter
+
+1ª - criar uma pasta onde vai está o projeto : mkdir <nome da pasta-do-projeto>
+
+2ª - entrar na pasta do projeto: <cd nome da pasta do projeto>
+
+3ª - Agora vamos criar a estrutura do projeto: <flutter create nome-do-aplicativo>
+
+4ª - Agora vamos entrar na pasta do projeto flatter: <cd nome-do-aplicativo>
+
+5ª - Quando criamos o primeiro projeto por padrão ele criar um app padrão e se
+ caso queira executar para ver rodando e só conectar o celular ao computador com
+ o modo de desenvolvedor e depuração ativado e executar o comando: <flutter run>
+
+
+Conhecendo mais a estrutura de pasta da aplicação. De forma básica existem 3 pasta que são importante na estrutura do aplicativo que são:
+
+1ª - build\app\outputs\apk || Nessa pasta e onde vai ser gerado os nosso aplicativos para android. 
+
+2ª - lib\main.dart || Toda a nossa aplicação vai está aqui dentro dessa pasta.
+
+3ª - pubspec.yaml || Arquivo responsavel por configurar as dependencias do nosso projeto. OBS: muito importante.
